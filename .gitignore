@@ -1,0 +1,2 @@
+#Exclude jupyter notebooks as these are intended for prototyping in an earlier stage
+*.ipynb
